@@ -243,3 +243,4 @@ def main(win, width):
 	pygame.quit() # quiting the program 
 if __name__ == '__main__': 
 	main(WIN, WIDTH)  
+	
