@@ -1,4 +1,4 @@
-# A-Pathfinding
+# A*-Pathfinding
 A* Pathfinding algorithm in Python. 
 
 * Programmer: ch4tic - Eman Ćatić 
